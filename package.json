@@ -1,0 +1,12 @@
+{
+  "name": "micromatic-chatbot",
+  "version": "1.0.0",
+  "description": "Micro Matic AI Chatbot powered by Claude",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
